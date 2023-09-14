@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "hola123",
+        "email": "hola@yahoo.es",
+        "pais": "Bolivia"
+    },
+    {
+        "nombre": "the_watcher",
+        "email": "imwatchingyou@be.careful",
+        "pais": "Desconocido"
+    },
+    {
+        "nombre": "npc",
+        "email": "nonplayablecharacter@gmail.com",
+        "pais": "Desconocido"
+    },
+    {
+        "nombre": "CJ1992",
+        "email": "carljohnson@grovest.fams",
+        "pais": "Estados Unidos"
+    }
+]
